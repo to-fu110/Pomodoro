@@ -5,7 +5,7 @@ import "./pomodoro.css";
 
 export default function Clockapp() {
 
-  const [time, setTime] = useState(1*1);
+  const [time, setTime] = useState(25*60);
   const [isActive, setIsActive] =  useState(false);
   const [mode,setMode] = useState<"work" | "break">("work");
 
