@@ -5,7 +5,7 @@
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    width: 100vw;
+    width: 150vw;
     transition: background-color 1s ease;
     font-family: "Inter", sans-serif;
     color: white;
